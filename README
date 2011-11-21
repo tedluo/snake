@@ -1,0 +1,23 @@
+In this game,you can control a little snake to move in the screen
+to eat the food which are displayed at the random offset.when the 
+snake eat a food,the snake will increase its body.
+
+/*suport C lib*/
+if you want to play this game on your PC ,you have to install SDL
+lib.
+
+/*version*/
+This is my snake of version 0.0.1,and if you have any instereting 
+suggestions or what misstakes i have made in the code for this g-
+ame,EMAI me:luoming8@gmail.com
+i'm expecting for you suggestion.
+
+/*Propotion*/
+Anybody who have instereting in this codes can use it for anyway.
+
+/*AUTHOR*/
+Finished by ted.
+EMAIL:luoming8@gmail.com
+
+Open source!
+Just Coding for fun!
